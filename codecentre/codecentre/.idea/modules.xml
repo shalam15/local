@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/codecentre.iml" filepath="$PROJECT_DIR$/.idea/codecentre.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/django/.idea/django.iml" filepath="$USER_HOME$/PycharmProjects/django/.idea/django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../react/.idea/react.iml" filepath="$PROJECT_DIR$/../../react/.idea/react.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml" filepath="$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
